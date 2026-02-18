@@ -19,27 +19,25 @@ This repository serves as an archive for technical projects and coursework compl
 * **Location:** Douliou, Yunlin, Taiwan 
 
 
-
 ---
 
 ## Technical Coursework & Projects
 
-### [Web Page Design](https://www.google.com/search?q=https://github.com/%5Byour-username%5D/%5Brepo-name%5D/tree/main/Web-Page-Design)
+### [Web Page Design](https://github.com/mtthwes/NYUST/tree/f812ba8533f79ea247ddf5dd222e17ad2a4f672b/Webpage-Design-Final)
 
 * **Term:** Spring 2023 
 * **Focus:** Developing responsive, user-centric web interfaces.
 * **Key Skills:** HTML, CSS, UI/UX Principles.
 
 
-### [Introduction to Video Game Design and Applications](https://www.google.com/search?q=https://github.com/%5Byour-username%5D/%5Brepo-name%5D/tree/main/Game-Design)
+### [Introduction to Video Game Design and Applications](https://github.com/mtthwes/NYUST/tree/f812ba8533f79ea247ddf5dd222e17ad2a4f672b/Intro-VideoGameDesign)
 
 * **Term:** Spring 2023 
 * **Focus:** Fundamentals of game mechanics, logic, and interactive application design.
 * **Key Skills:** Game Logic, Scripting, Asset Management.
 
 
-
-### [Basic Computer Programming](https://www.google.com/search?q=https://github.com/%5Byour-username%5D/%5Brepo-name%5D/tree/main/Basic-Programming)
+### Basic Computer Programming
 
 * **Term:** Spring 2023 
 * **Focus:** Foundational programming concepts and algorithmic thinking.
