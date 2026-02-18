@@ -30,7 +30,7 @@ This repository serves as an archive for technical projects and coursework compl
 * **Key Skills:** HTML, CSS, UI/UX Principles.
 
 
-### [Introduction to Video Game Design and Applications](https://github.com/mtthwes/NYUST/tree/f812ba8533f79ea247ddf5dd222e17ad2a4f672b/Intro-VideoGameDesign)
+### [Introduction to Video Game Design and Applications](https://github.com/mtthwes/NYUST/tree/f812ba8533f79ea247ddf5dd222e17ad2a4f672b/Intro-Game-Design)
 
 * **Term:** Spring 2023 
 * **Focus:** Fundamentals of game mechanics, logic, and interactive application design.
